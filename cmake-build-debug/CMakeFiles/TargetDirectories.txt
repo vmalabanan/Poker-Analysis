@@ -1,0 +1,3 @@
+C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v20/cmake-build-debug/CMakeFiles/sPoker_Analysis_v13.dir
+C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v20/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sPoker_Analysis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sPoker_Analysis">
+				<Option output="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/sPoker_Analysis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 sPoker_Analysis"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sPoker_Analysis/fast">
+				<Option output="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/sPoker_Analysis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 sPoker_Analysis/fast"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Card.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Card.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/CardHand.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/CardHand.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/CardHandScorer.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/CardHandScorer.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Deck.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Deck.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/PokerHandProbability.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/PokerHandProbability.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/PokerScore.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/PokerScore.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Rank.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Rank.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/RanksEnum.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Suit.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/Suit.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/SuitsEnum.h">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/main.cpp">
+			<Option target="sPoker_Analysis"/>
+		</Unit>
+		<Unit filename="C:/Users/vanes/Dropbox/#zqC++ Projects/CS 003A/sPoker Analysis v5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
